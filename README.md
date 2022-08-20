@@ -1,1 +1,1 @@
-#Django Template REecap "
+# Django Template Recap - Course Project
